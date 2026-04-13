@@ -108,7 +108,7 @@ public class ChatApp_registration_login {
             this.password = password;
         }else{
             passwordMessage = "Password is not correctly formatted; please ensure"
-                    + "that the password contains at least eight characters, a"
+                    + "that the password contains at least eight cahracters, a"
                     + "capital letter, a number, and a special character.";
         }
         
